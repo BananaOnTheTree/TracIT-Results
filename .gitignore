@@ -1,0 +1,13 @@
+old_script/
+.venv/
+citywalk/
+conreflect/
+coverup/
+deepseek_v3_2/
+gpt4_1nano/
+haiku4_5/
+llm4cpp/
+no_context/
+no_cot/
+.idea
+__pycache__/
