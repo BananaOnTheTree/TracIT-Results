@@ -1,8 +1,8 @@
-# TracIT Coverage Artifacts
+# TracIT Artifacts
 
-This repository contains artifacts for the paper "Trace-Driven Large Language Model Test Generation for High-Coverage C++ Unit Testing"
+This repository contains artifacts for the paper "Trace-Driven Large Language Model Test Generation for High-Coverage C++ Unit Testing", comprised of coverage results for focal methods, LLM output responses throughout the flows, and scripts to calculate statistics used in the paper.
 
-First, unzip all the files to restore the original directory structure inside the [results file](results.rar).
+Before running any script, first, unzip all the files to restore the original directory structure inside the [results file](results.rar).
 
 Repository layout
 
